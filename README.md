@@ -73,7 +73,7 @@
 # Installation and Usage
 
 1. Clone the Repository
-    git clone https://github.com/your-username/bank-system.git
+    git clone https://github.com/AdelinaKachinda/BankSystem
     cd bank-system
 2. Compile the Files
     Compile all .java files:
